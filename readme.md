@@ -18,13 +18,13 @@ Esta es una aplicación simple de acortamiento de URLs implementada utilizando e
 1. Clona este repositorio en tu máquina local:
 
 ```
-git clone https://github.com/luisaap-dev/Flask-AcortadorUrl
+git clone https://github.com/luisaap-dev/Flask-LinkRapid
 ```
 
 2. Accede al directorio del repositorio:
 
 ```
-cd Flask-AcortadorUrl
+cd Flask-LinkRapid
 ```
 
 3. Instala las dependencias utilizando `pip`:
